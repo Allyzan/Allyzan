@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Allyzan
 - 👀 I’m interested in technology for a career change
-- 🌱 I’m currently learning understing technology
+- 🌱 I’m currently learning understanding technology
 - 📫 How to reach me by Email or through git hub 
 
 <!---
